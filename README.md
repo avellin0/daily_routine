@@ -1,6 +1,6 @@
 # daily_routine
-É isso ai paizão dia: 26/05/25
+É isso ai paizão dia: 02/06/25
 
 relatorio:
 
-Estou resolvendo o CORS do deploy da minha aplicação
+Coloquei o Saas pra rodar e ajustei as anotações
