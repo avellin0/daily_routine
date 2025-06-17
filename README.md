@@ -3,4 +3,5 @@
 
 relatorio:
 
-Fiz uma re-arquitetura do Saas para ter mais desempenho e clereza na hora de desenvolver
+Hoje resolvi uns erros na landingPage a fiz alguns ajustes nos servidores, agora preciso atualizar o server do render e fazer merge do microservices
+
